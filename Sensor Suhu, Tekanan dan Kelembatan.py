@@ -37,5 +37,4 @@ sense.stick.direction_right = right
 
 while True:
   pass
-
 #Code By Haris Elfian
